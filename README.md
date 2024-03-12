@@ -1,2 +1,2 @@
 # CGG_Hackathon
-Hackathon repo 
+Please clone this repository and visit here to download core image data.
